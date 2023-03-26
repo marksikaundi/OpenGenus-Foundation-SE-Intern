@@ -96,3 +96,5 @@ You can also use the navigator object to check if JavaScript is enabled, like th
 This code checks the user agent string to see if the browser is Edge or Internet Explorer, which do not support some modern JavaScript features. If the browser is not Edge or Internet Explorer and the ``navigator`` object is available, the script sets a key-value pair in the localStorage object to indicate that JavaScript is enabled. If the ``navigator`` object is not available or the browser is Edge or Internet Explorer, the script sets the key-value pair to indicate that JavaScript is disabled.
 
 Note that while these methods can detect if JavaScript is enabled, they should not be used to prevent users from accessing the website. It is recommended to provide alternative functionality for users who have disabled JavaScript.
+You can read more 
+https://github.com/marksikaundi/OpenGenus-Foundation-SE-Intern/discussions/2
