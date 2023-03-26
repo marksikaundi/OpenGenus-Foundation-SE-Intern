@@ -1,5 +1,5 @@
-# OpenGenus-Foundation-SE-Intern
-- 
+# OpenGenus-Foundation-SE-Intern(2Months)
+- Different ways to detect if JavaScript is disabled in a browser
 There are several ways to detect if JavaScript is disabled in a browser: And below is my explaination
 1. **Noscript tag:** This method uses the ``<noscript>`` tag in HTML to display a message when JavaScript is not enabled. The message is shown to users who have disabled JavaScript in their browser or have a browser that does not support JavaScript.
 ```
